@@ -1,0 +1,141 @@
+.a{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+body{
+  margin: 0;
+  color: #40514E;
+  text-align: center;
+  font-family: Merriweather;
+
+}
+.raja{
+  padding-top: 100px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+h1{
+ margin-bottom: 0;
+  display: block;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  color: #66BFBF
+
+
+}
+.web{
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2.5rem;
+  line-height: 2;
+}
+h2{
+    color: #11999E;
+    font-family:sans-serif;
+    padding: 10px;
+}
+p{
+  line-height: 2;
+}
+.skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+
+}
+.Hobby{
+  width: 50%;
+    margin: 100px auto 100px auto;
+ text-align: left;
+
+}
+.Web{
+  width:  25%;
+  float: left;
+  margin-right: 30px;
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.hiking{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.downcloud{
+  position: absolute;
+  left: 300px;
+  down: 300px;
+
+}
+.topcloud{
+  position: absolute;
+  right:  300px;
+  top: 50px;
+}
+.Contact{
+  color: #66BFBF;
+
+  font-family: sans-serif;
+}
+
+.bottom{
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+a{
+  font-family:  Merriweather;
+
+  text-decoration: none;
+  margin:20px 10px;
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding:10px 0px;
+}
+.btn {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:2px 12px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
